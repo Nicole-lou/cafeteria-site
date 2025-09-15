@@ -24,7 +24,8 @@ article.container-fluid {
 }
 
 footer.rodape {
-    height: 210px;
+    height: 260px;
+    width: 100%;
     background-color: #B87333;
 }
 
@@ -73,5 +74,7 @@ a.w-button{
   padding: 10px 20px;
     
 }
+
+/* contato-info*/
 
 
